@@ -2,14 +2,14 @@ import { initializeApp } from "firebase/app";
 import { getDatabase } from "firebase/database";
 
 const firebaseConfig = {
-  // Ye saari details tune Settings > General mein SDK Config mein dekhi hain
-  apiKey: "TERA_API_KEY_YAHAN_DAAL", 
+  apiKey: "AIzaSyDipcoXCYXgLTGNnTRlE9vGwPQie33p44c",
   authDomain: "fire-database-11.firebaseapp.com",
-  databaseURL: "https://fire-database-11-default-rtdb.firebaseio.com/", // Tera URL maine daal diya hai
+  databaseURL: "https://fire-database-11-default-rtdb.firebaseio.com",
   projectId: "fire-database-11",
-  storageBucket: "fire-database-11.appspot.com",
-  messagingSenderId: "TERA_SENDER_ID_YAHAN_DAAL",
-  appId: "TERA_APP_ID_YAHAN_DAAL"
+  storageBucket: "fire-database-11.firebasestorage.app",
+  messagingSenderId: "145298023841",
+  appId: "1:145298023841:web:ecb6a41a4519a2a31897e0",
+  measurementId: "G-QDQ19RXYY4"
 };
 
 // Firebase initialize karo
