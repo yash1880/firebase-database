@@ -1,3 +1,4 @@
+![Screenshot Project](https://github.com/yash1880/firebase-database/blob/e24c571c46eff597f281e7ddfe76e0c3a1f3421d/Screenshot%202026-05-14%20202818.png)
 # 📦 Inventory Tracking System
 
 A professional and industry-ready **Inventory Management System** built using **React.js, Redux Toolkit, Firebase Realtime Database, and Redux Thunk**.
